@@ -18,7 +18,8 @@ pykrx module
 >> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333601-a9663180-9b83-11eb-9691-de49ab978087.png"/>  
 
 > Point of my work  
->> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333598-a8350480-9b83-11eb-8ed8-ac47030c1f58.png"/>  
+>> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333598-a8350480-9b83-11eb-8ed8-ac47030c1f58.png"/>
+>> 
 >> Radar chart to compare profitability and stability of the company in 2020 with the good and bad models of each industrial group
 
 # Project Limits
