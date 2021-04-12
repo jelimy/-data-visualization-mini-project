@@ -14,11 +14,12 @@ pykrx module
 
 # Details
 > Screenshot  
-<img width="80%" src="https://user-images.githubusercontent.com/77669374/114333602-a9663180-9b83-11eb-94b5-652f2b02c701.png"/>  
-<img width="80%" src="https://user-images.githubusercontent.com/77669374/114333601-a9663180-9b83-11eb-9691-de49ab978087.png"/>  
+>> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333602-a9663180-9b83-11eb-94b5-652f2b02c701.png"/>  
+>> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333601-a9663180-9b83-11eb-9691-de49ab978087.png"/>  
+
 > Point of my work  
-<img width="80%" src="https://user-images.githubusercontent.com/77669374/114333598-a8350480-9b83-11eb-8ed8-ac47030c1f58.png"/>  
-Radar chart to compare profitability and stability of the company in 2020 with the good and bad models of each industrial group
+>> <img width="80%" src="https://user-images.githubusercontent.com/77669374/114333598-a8350480-9b83-11eb-8ed8-ac47030c1f58.png"/>  
+>> Radar chart to compare profitability and stability of the company in 2020 with the good and bad models of each industrial group
 
 # Project Limits
 Need more data to find correlation between financial statements and stock prices
