@@ -5,6 +5,7 @@ Data visualization mini team project
 Financial statements visualization of top 10 companies' market cap in Korea
 ### Tools
 Python 3.7.7
+(flask framework)
 ### Data Source
 pykrx module  
 > [네이버 금융] https://finance.naver.com/  
